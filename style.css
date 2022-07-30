@@ -22,7 +22,7 @@ body {
 }
 
 //**tablet**//
-@media (max-width: 768px) and (max-width: 990px) {
+@media (min-width: 768px) and (max-width: 990px) {
     .desktop {
         display: none;
     }
